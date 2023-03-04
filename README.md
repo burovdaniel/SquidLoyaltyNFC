@@ -1,7 +1,7 @@
 # SquidLoyaltyNFC
 Reverse Engineering the Squid Loyalty NFC tags
 This repo holds a bash script and some information on data data stored on Squid loyalty tags.
-More detial on the tags can be found [here] [website].
+More detial on the tags can be found [here].
 
 The bash script creates an NTAG213 nfc tag based on a given 7 byte UID.
 This tag can then emualted with the right device. In my case I have been succecful with a flipper zero.
@@ -16,4 +16,4 @@ Run the script and will be prompted to enter the UID that then will create the n
 
 
 
-[website]:https://danielburov.com/Squid-nfc/
+[here]:https://danielburov.com/Squid-nfc/
